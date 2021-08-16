@@ -1,0 +1,86 @@
+[03-Jan-2018 02:04:56 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[03-Jan-2018 02:04:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[03-Jan-2018 02:05:15 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[03-Jan-2018 02:05:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[03-Jan-2018 02:05:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[03-Jan-2018 02:05:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[03-Jan-2018 02:07:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[03-Jan-2018 02:08:09 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[11-Jan-2018 03:36:23 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[11-Jan-2018 03:45:03 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[11-Jan-2018 03:45:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[11-Jan-2018 03:45:49 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[11-Jan-2018 03:45:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[13-Jan-2018 09:35:12 America/New_York] PHP Notice:  Undefined index: category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 21
+[13-Jan-2018 09:35:12 America/New_York] PHP Notice:  Undefined index: sub_category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 23
+[13-Jan-2018 09:35:12 America/New_York] PHP Notice:  Undefined index: file in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 26
+[13-Jan-2018 09:35:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:13:12 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:13:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:14:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:17:41 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:17:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[15-Jan-2018 11:17:44 America/New_York] PHP Notice:  Undefined index: category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 21
+[15-Jan-2018 11:17:44 America/New_York] PHP Notice:  Undefined index: sub_category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 23
+[15-Jan-2018 11:17:44 America/New_York] PHP Notice:  Undefined index: file in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 26
+[15-Jan-2018 11:17:44 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:18:13 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:18:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[15-Jan-2018 11:18:17 America/New_York] PHP Notice:  Undefined index: category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 21
+[15-Jan-2018 11:18:17 America/New_York] PHP Notice:  Undefined index: sub_category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 23
+[15-Jan-2018 11:18:17 America/New_York] PHP Notice:  Undefined index: file in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 26
+[15-Jan-2018 11:18:17 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:19:01 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:19:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[15-Jan-2018 11:19:06 America/New_York] PHP Notice:  Undefined index: category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 21
+[15-Jan-2018 11:19:06 America/New_York] PHP Notice:  Undefined index: sub_category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 23
+[15-Jan-2018 11:19:06 America/New_York] PHP Notice:  Undefined index: file in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 26
+[15-Jan-2018 11:19:06 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:30:48 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[15-Jan-2018 11:30:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[16-Jan-2018 00:26:19 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[16-Jan-2018 00:26:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 68
+[16-Jan-2018 00:26:32 America/New_York] PHP Notice:  Undefined index: category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 21
+[16-Jan-2018 00:26:32 America/New_York] PHP Notice:  Undefined index: sub_category in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 23
+[16-Jan-2018 00:26:32 America/New_York] PHP Notice:  Undefined index: file in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 26
+[16-Jan-2018 00:26:32 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 32
+[17-Jan-2018 10:01:21 America/New_York] PHP Notice:  Undefined index: user in /home/mybroker/public_html/mybroker/backend/function/edit_subcateg_fun.php on line 7
+[21-Jun-2021 00:42:08 America/Boise] PHP Warning:  unlink(../img_upload/th (3).jpg): No such file or directory in /home2/bizzhelp/public_html/newsound/backend/function/edit_subcateg_fun.php on line 73
+[21-Jun-2021 00:45:20 America/Boise] PHP Warning:  unlink(../img_upload/th (7).jpg): No such file or directory in /home2/bizzhelp/public_html/newsound/backend/function/edit_subcateg_fun.php on line 73
+[21-Jun-2021 00:46:00 America/Boise] PHP Warning:  unlink(../img_upload/th (6).jpg): No such file or directory in /home2/bizzhelp/public_html/newsound/backend/function/edit_subcateg_fun.php on line 73
+[02-Jul-2021 01:15:54 America/Boise] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home2/bizzhelp/public_html/soundkade-dev/backend/function/save_new_form_data.php on line 46
+[02-Jul-2021 01:15:54 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home2/bizzhelp/public_html/soundkade-dev/backend/function/save_new_form_data.php on line 46
+[02-Jul-2021 01:16:11 America/Boise] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home2/bizzhelp/public_html/soundkade-dev/backend/function/save_new_form_data.php on line 46
+[02-Jul-2021 01:16:11 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home2/bizzhelp/public_html/soundkade-dev/backend/function/save_new_form_data.php on line 46
+[02-Jul-2021 01:16:46 America/Boise] PHP Warning:  array_combine() expects parameter 2 to be array, null given in /home2/bizzhelp/public_html/soundkade-dev/backend/function/save_new_form_data.php on line 46
+[02-Jul-2021 01:16:46 America/Boise] PHP Warning:  Invalid argument supplied for foreach() in /home2/bizzhelp/public_html/soundkade-dev/backend/function/save_new_form_data.php on line 46
